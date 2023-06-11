@@ -1,5 +1,3 @@
-# [Emilayne Rodrigues]
-
 Eu sou [Emilayne] e tenho paixão por programação e desenvolvimento web. Estou constantemente aprimorando minhas habilidades e conhecimentos nesta área.
 
 - 🔭 Atualmente estou estudando programação e desenvolvimento web.
