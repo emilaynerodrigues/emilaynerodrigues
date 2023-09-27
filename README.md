@@ -27,7 +27,7 @@
  
 <div> 
    <a href="https://www.instagram.com/emilaynx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
-    <a href="https://www.figma.com/files/user/1097236190827831037?fuid=1097236190827831037" target="_blank"><img src="https://img.shields.io/badge/FIGMA-2dd881?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+    <a href="https://www.figma.com/files/user/1097236190827831037?fuid=1097236190827831037" target="_blank"><img src="https://img.shields.io/badge/FIGMA-4134b0?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
  
  
 </div>
